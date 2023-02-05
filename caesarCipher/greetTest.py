@@ -1,4 +1,3 @@
-
 def greet():
     print('Good Morning')
     print('Today is a good Day')
